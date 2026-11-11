@@ -14,3 +14,11 @@ Its a mini project where the user has to guess the right number the program is t
 "You guessed the right number."
 The 2nd statement will print out the number of attempts the user took to guess it:
 "It took you {attempts} attempts to guess it."
+
+# Concepts Learned:
+
+* Loops
+* Functions
+* If/else statements
+* User input
+* Random number generation
